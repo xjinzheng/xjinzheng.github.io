@@ -4,7 +4,7 @@ collection: work
 type: Writing Sample
 permalink: /work/dmp-hk
 excerpt: "Decentralized Technology, Media, Social Engagement, Security, Hong Kong"
-date: 2019-10
+date: 2019-10-30
 location: "City, Country"
 ---
 
