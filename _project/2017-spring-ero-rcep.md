@@ -2,8 +2,9 @@
 title: "Medicine IP Rights in RCEP"
 collection: project
 type: "Course Project"
-permalink: /project/2017-04-01-ero-rcep
+permalink: /project/2017-spring-ero-rcep
 venue: "Economic and Regional Organization"
+excerpt: "Keywords: RCEP, Medicine, Intellectual Property Rights"
 date: 2017-04-01
 location: "City, Country"
 ---
