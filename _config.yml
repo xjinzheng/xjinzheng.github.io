@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gin Xiaojin Zheng"
+title                    : "Gin Zheng Academic Website"
 title_separator          : "-"
 name                     : &name "Gin Xiaojin Zheng"
 description              : &description "Student at National Taiwan University"
@@ -83,7 +83,7 @@ author:
   name             : "Gin Xiaojin Zheng"
   avatar           : "profile.png"
   bio              : "Senior Year Undergrad <br/> National Taiwan University"
-  location         : "Fuzhou 🇨🇳 → Taipei 🇹🇼"
+  location         : "Fuzhou 🇨🇳→ Taipei 🇹🇼"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
