@@ -186,6 +186,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  work:
+    output: true
+    permalink: /:collection/:path/
+  project:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
