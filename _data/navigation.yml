@@ -1,11 +1,11 @@
 # main links links
 main:   
     
-  - title: "Current Project"
+  - title: "Current Projects"
     url: /work/
 
   - title: "Past Projects"
-    url: /projects/
+    url: /project/
     
   - title: "Research Assistant Work"
     url: /ra/
@@ -15,6 +15,4 @@ main:
   
   - title: "CV"
     url: /cv/
-    
-  - title: "Blog Posts"
-    url: /year-archive/
+
