@@ -1,14 +1,20 @@
 # main links links
 main:   
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Current Project"
+    url: /work/
+
+  - title: "Past Projects"
+    url: /projects/
     
+  - title: "Research Assistant Work"
+    url: /ra/
+    
+  - title : "Industry Work"
+    url: /intern/
+  
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Blog Posts"
+    url: /year-archive/
