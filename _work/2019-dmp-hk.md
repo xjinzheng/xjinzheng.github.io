@@ -13,12 +13,3 @@ This project seeks to examine the decentralized meida platforms’ contribution 
 
 [Original Data Here](https://github.com/ginxiaojinzheng/dmp_hk)
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
