@@ -1,10 +1,11 @@
 ---
 title: "Decentralized Media Platforms: Cases from Hong Kong"
 type: "Writing Sample"
+venue: 
 collection: project
 permalink: /work/2019-dmp-hk
 excerpt: "Keywords: Decentralized Technology, Media, Social Engagement, Security, Hong Kong"
-data: 2019-10-30
+date: 2019-10-30
 location: "City, Country"
 ---
 
