@@ -1,16 +1,16 @@
 ---
 title: "Decentralized Media Platforms: Cases from Hong Kong"
-type: "Writing Sample"
-venue: 
 collection: project
 permalink: /work/2019-dmp-hk
-excerpt: "Keywords: Decentralized Technology, Media, Social Engagement, Security, Hong Kong"
-date: 2019-10-30
-location: "City, Country"
+excerpt: "Writing Sample"
 ---
 
 This project seeks to examine the decentralized meida platforms’ contribution to two aspects of their social impact:
 (1) the expansion of audience reach on social movements and (2) the empowerment of personal expression on critical issues.
 
+Keywords: Decentralized Technology, Media, Social Engagement, Security, Hong Kong
+
 [Original Data Here](https://github.com/ginxiaojinzheng/dmp_hk)
+
+Oct. 2019
 
