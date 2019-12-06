@@ -186,7 +186,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  work:
+  current:
     output: true
     permalink: /:collection/:path/
   project:
@@ -249,10 +249,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _work
+  # _current
   - scope:
       path: ""
-      type: work
+      type: current
     values:
       layout: single
       author_profile: true
