@@ -1,7 +1,7 @@
 ---
 title: "PTT Gossip Users Analysis"
 collection: project
-permalink: /project/2017-fall-gossip
+permalink: /project/2017-gossip
 excerpt: "Course Project, Data Science and Social Inquiry, NTU, Fall 2017"
 ---
 
