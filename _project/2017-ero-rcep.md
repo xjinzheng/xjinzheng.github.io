@@ -1,8 +1,8 @@
 ---
 title: "Medicine IP Rights in RCEP"
 collection: project
-permalink: /project/2017-spring-ero-rcep
-excerpt: "Course Project"
+permalink: /project/2017-ero-rcep
+excerpt: "Course Project, Economic and Regional Organization, NTU, Spring 2017"
 ---
 
 Economic and Regional Organization, NTU, Spring 2017
