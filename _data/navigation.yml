@@ -1,10 +1,10 @@
 # main links links
 main:   
     
-  - title: "Current Projects"
-    url: /work/
+  - title: "Current Working"
+    url: /current/
 
-  - title: "Past Projects"
+  - title: "Course Projects"
     url: /project/
     
   - title: "Research Assistant Work"
