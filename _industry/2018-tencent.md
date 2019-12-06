@@ -2,7 +2,7 @@
 title: "NLP Industry in China"
 collection: industry
 permalink: /industry/2018-tencent
-excerpt: "Research Assistant, Tencent Research Institute"
+excerpt: "Research Assistant, Tencent Research Institute, Summer 2018"
 ---
 
 Research Assistant, Tencent Research Institute
