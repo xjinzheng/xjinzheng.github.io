@@ -1,17 +1,15 @@
 # main links links
 main:   
     
-  - title: "Current Working"
-    url: /current/
 
-  - title: "Course Projects"
+  - title: "Projects"
     url: /project/
     
-  - title: "Research Assistant Work"
+  - title: "Research Apprenticeship"
     url: /ra/
     
   - title : "Industry Work"
-    url: /intern/
+    url: /industry/
   
   - title: "CV"
     url: /cv/
