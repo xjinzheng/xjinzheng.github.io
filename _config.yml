@@ -186,10 +186,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  current:
+  project:
     output: true
     permalink: /:collection/:path/
-  project:
+  ra:
+    output: true
+    permalink: /:collection/:path/
+  industry:
     output: true
     permalink: /:collection/:path/
 
@@ -249,19 +252,28 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _current
+  # _project
   - scope:
       path: ""
-      type: current
+      type: project
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _project
+  # _ra
   - scope:
       path: ""
-      type: project
+      type: ra
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _industry
+  - scope:
+      path: ""
+      type: industry
     values:
       layout: single
       author_profile: true
