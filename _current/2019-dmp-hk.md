@@ -1,7 +1,7 @@
 ---
 title: "Decentralized Media Platforms: Cases from Hong Kong"
 collection: project
-permalink: /work/2019-dmp-hk
+permalink: /current/2019-dmp-hk
 excerpt: "Writing Sample"
 ---
 
