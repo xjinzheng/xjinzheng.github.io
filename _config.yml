@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gin's Academic Website"
+title                    : "Gin Zheng's Portfolio"
 title_separator          : "-"
 name                     : &name "Gin Xiaojin Zheng"
 description              : &description "Student at National Taiwan University"
