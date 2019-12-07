@@ -2,7 +2,7 @@
 title: "NTU Student Association Media"
 collection: activities
 permalink: /activities/2016-ntusparks
-excerpt: "Editor, 2016"
+excerpt: "Editor, 花火, 2016"
 ---
 
 Editor, NTU Student Association Media 花火
