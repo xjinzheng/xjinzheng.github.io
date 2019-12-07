@@ -2,7 +2,7 @@
 title: "Medicine IP Rights in RCEP"
 collection: project
 permalink: /project/2017-ero-rcep
-excerpt: "Course Project,[PS3208] Economic and Regional International Organizations, NTU, Spring 2017"
+excerpt: "Course Project, [PS3208] Economic and Regional International Organizations, NTU, Spring 2017"
 ---
 
 [PS3208] Economic and Regional International Organizations, NTU, Spring 2017
