@@ -5,7 +5,7 @@ permalink: /activities/2016-ntusparks
 excerpt: "Editor, 2016"
 ---
 
-Editor, NTU Student Association Media
+Editor, NTU Student Association Media 花火
 
 Sept 2015 - Sept 2016
 
