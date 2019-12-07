@@ -2,7 +2,7 @@
 title: "Mouse-lab"
 collection: activities
 permalink: /activities/2017-mouselab
-excerpt: "Writer, 2017"
+excerpt: "Writer, 貌似實驗室, 2017"
 ---
 
 Writer, Mouse-lab 貌似實驗室 (Self-media team)
