@@ -5,11 +5,14 @@ permalink: /skills/
 author_profile: true
 ---
 
-Data and Methods
-===
+## Data and Methods
+
+- 
 
 
 
 
-Certificates and Awards
-===
+
+
+## Certificates and Awards
+
