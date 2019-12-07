@@ -1,5 +1,5 @@
 ---
-title: "Mouse-lab 貌似實驗室 (Self-media team)"
+title: "Mouse-lab 貌似實驗室"
 collection: activities
 permalink: /activities/2017-mouselab
 excerpt: "Writer, 2017"
