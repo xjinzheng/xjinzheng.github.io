@@ -1,5 +1,5 @@
 ---
-title: "NTU Student Association Media"
+title: "Student Association Media, National Taiwan University"
 collection: activities
 permalink: /activities/2016-ntusparks
 excerpt: "Editor, 花火, 2016"
