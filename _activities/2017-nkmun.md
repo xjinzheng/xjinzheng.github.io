@@ -1,9 +1,12 @@
 ---
-title: "Nan King Model United Nation 2017 汇文模联"
+title: "Nan King Model United Nation"
 collection: activities
 permalink: /activities/2017-nkmun
-excerpt: "Academic Director, 2017"
+excerpt: "Academic Director of Press Corps, 汇文模联, 2017"
 ---
 
-Academic Director, NKMUN 2017 汇文模联
+Academic Director of Press Corps, NKMUN 2017 汇文模联
 
+- Instructed 7-person press co-chair team, trained nearly 50 media delegates and directed the composition of Background
+Guide; 
+- Responsible for the revision, review, designing and publishing of the conference’s newspaper
