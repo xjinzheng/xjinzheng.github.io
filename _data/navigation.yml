@@ -11,6 +11,9 @@ main:
   - title : "Industry"
     url: /industry/
   
+  - title: "Activities"
+    url: /activities/
+  
   - title: "Skills"
     url: /skill/
 
