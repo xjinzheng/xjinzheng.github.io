@@ -8,8 +8,8 @@ author_profile: true
 ### Data and Methods
 
 - Web Crawler
-  * Python: Beautiful Soup (HTML Parser)
-  * R: _rvest_ and _stringr_
+  * Python: _beautifulSoup_
+  * R: _rvest_
   * Social Meida API
   
 - Basic Data Structure
@@ -21,8 +21,9 @@ author_profile: true
   * Linked Lists (Stacks and Queues)
   
 - Text Analysis
-  * Text cleaning
-    * _REGEX_ (Regular Expressions) 
+  * Text cleaning and manipulating
+    * _REGEX_ (Regular Expressions)
+    * _stringr_ in R
     * _jieba_ for general Chinese text
     * manual trimming for classical Chinese text  
   * Topic Model
@@ -33,11 +34,20 @@ author_profile: true
 
 - Regression
   * LASSO: _glmnet_
-  * GMM
+  * Asymptotic Distribution
+  * Large Sample
+  * Maximum likelihood
+  * Generalized Method of Moments
+
+- Data Wrangling
+  * Python: _pandas_, _numpy_, _sklearn_
+  * R: _tidyverse_
+  * Plots: _ggplot2_ in R
+
 
 
 ### Certificates and Awards
 
 - Scholarship from Taiwan Shan-Yuan Construction Group (Top 6%), Academic Year 2016
-- Certificates in Level 10/10 in Piano, Level 9/9 in Vocal Music, Level 4/4 in Music Theory, Chinese Musicians’Association
+- Certificates in Level 10/10 in Piano, Level 9/9 in Vocal Music, Level 4/4 in Music Theory, Chinese Musicians’ Association
 
