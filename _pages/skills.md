@@ -49,6 +49,5 @@ author_profile: true
 ### Certificates and Awards
 
 - Scholarship from Taiwan Shan-Yuan Construction Group (Top 6%), Academic Year 2016
-- Certificates in Level 10/10 in Piano, Level 9/9 in Vocal Music, Level 4/4 in Music Theory,
- Chinese Musicians’ Association, 2009
+- Certificates in Level 10/10 in Piano, Level 9/9 in Vocal Music, Level 4/4 in Music Theory, <br/> Chinese Musicians’ Association, 2009
 
