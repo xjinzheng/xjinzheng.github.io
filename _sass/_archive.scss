@@ -30,7 +30,7 @@
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
-  font-size: $type-size-4;
+  font-size: $type-size-3;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
@@ -42,7 +42,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  font-size: 1.25em;
+  font-size: 1.25 em;
 
   a + a {
     opacity: 0.5;
@@ -55,12 +55,13 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+    font-size: 1.25 em;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: 1em;
+  font-size: 1 em;
 
   & + p {
     text-indent: 0;
