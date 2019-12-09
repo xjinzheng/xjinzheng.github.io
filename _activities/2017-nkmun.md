@@ -1,5 +1,5 @@
 ---
-title: "Nan King Model United Nation"
+title: "Nan King Model United Nations"
 collection: activities
 permalink: /activities/2017-nkmun
 excerpt: "Academic Director of Press Corps, 汇文模联, 2017"
