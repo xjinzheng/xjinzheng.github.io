@@ -49,6 +49,7 @@ author_profile: true
 ### Certificates and Awards
 
 - Scholarship (Top 6%), Taiwan Shan-Yuan Construction Group, 2016
+- Outstanding Delegate, Peking University National Model United Nations, 2013
 - Fujian Merit Student, Education Department of Fujian Province, 2012
 - Certificates of Level 10/10 in Piano, Level 9/9 in Vocal Music, Level 4/4 in Music Theory, <br/> Chinese Musicians’ Association, 2009
 
