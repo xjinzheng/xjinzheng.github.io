@@ -50,5 +50,5 @@ author_profile: true
 
 - Scholarship from Taiwan Shan-Yuan Construction Group (Top 6%), Academic Year 2016
 - Fujian Merit Student, Education Department of Fujian Province, 2012
-- Certificates in Level 10/10 in Piano, Level 9/9 in Vocal Music, Level 4/4 in Music Theory, <br/> Chinese Musicians’ Association, 2009
+- Certificates of Level 10/10 in Piano, Level 9/9 in Vocal Music, Level 4/4 in Music Theory, <br/> Chinese Musicians’ Association, 2009
 
