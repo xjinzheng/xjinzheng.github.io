@@ -12,7 +12,7 @@ The programme will generate the stock price info of this company, together with 
 
 Keywords: Stock News, Sentiment, Text Analysis, Bloomberg
 
-Here's the excerpt of part of crawler code.
+Here's the excerpt of crawler code.
 
 ```python
 
