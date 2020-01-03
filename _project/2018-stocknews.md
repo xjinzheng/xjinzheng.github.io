@@ -12,7 +12,7 @@ The programme will generate the stock price info of this company, together with 
 
 Keywords: Stock News, Sentiment, Text Analysis, Bloomberg
 
-Here's the excerpt of my web crawler code, one of the crucial work of scraping links from Google Search results is to use _Chromedriver_ to overcome the technical difficulties in this research.
+Here's the excerpt of part of crawler code.
 
 ```python
 
