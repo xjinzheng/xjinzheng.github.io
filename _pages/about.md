@@ -14,3 +14,6 @@ My intended research interests would mainly rest on political communication. Giv
 
 My parents named me 晓今 after the meaning of _Carpe Diem_, lecturing me to seize the moment right now, hence to apprehend and appreciate the experiences rather than the outcomes. Throughout the life-changing period of spending my college life across the Taiwan strait, although I accumulated many precious friendships and worked to build bridges between the mutual incomprehension, hardships stemming from policy restrictions placed on mainland Chinese students in Taiwan toughened me, and rendered me the opportunity to witness today's tensions of Greater China area. Being sandwiched between antagonistic positions, I see both the possibilities and the difficulties to embrace teared groups of people no matter domestically or internationally. That said, I assume it is the courage to continue contributing to peace that counts, and it is also true anywhere else. I believe we are international, and I anticipate a community of shared future for mankind. In the near future, I wish to pursue academia to commit to the truth in a nutshell.
   
+
+:: Update Feb 5th, 2020 ::
+Pray for the situation in Wuhan and everyone affected by the virus outbreak.
