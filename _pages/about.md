@@ -16,4 +16,5 @@ My parents named me 晓今 after the meaning of _Carpe Diem_, lecturing me to se
   
 
 :: Update Feb 5th, 2020 ::
-</br>Pray for the situation in Wuhan and everyone affected by the virus outbreak.
+
+Pray for the situation in Wuhan and everyone affected by the virus outbreak.
