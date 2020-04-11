@@ -11,5 +11,5 @@ This report on the topic of RCEP is to explain the RCEP as the current, major tr
 
 Keywords: RCEP, Medicine, Intellectual Property Rights
 
-[Download Report Here](https://ginxiaojinzheng.github.io/files/RCEP Property Rights - Economic and Regional Organization - final-report.pdf)
+[Download Report Here](https://xjinzheng.github.io/files/RCEP Property Rights - Economic and Regional Organization - final-report.pdf)
 
