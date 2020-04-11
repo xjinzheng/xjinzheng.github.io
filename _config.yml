@@ -11,9 +11,9 @@ title                    : "Gin Zheng's Portfolio"
 title_separator          : "-"
 name                     : &name "Gin Xiaojin Zheng"
 description              : &description "Student at National Taiwan University"
-url                      : https://ginxiaojinzheng.github.io # the base hostname & protocol for your site 
+url                      : https://xjinzheng.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ginxiaojinzheng.github.io"
+repository               : "xjinzheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "ginxiaojinzheng"
+  github           : "xjinzheng"
   google_plus      :
   keybase          :
   instagram        :
