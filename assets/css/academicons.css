@@ -5,7 +5,7 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .re-order .row {
     display: flex;
     display: -ms-flex;
@@ -17,7 +17,7 @@
   .re-order .row .second {
     order: 1;
   }
-}
+} */
 
 
 
