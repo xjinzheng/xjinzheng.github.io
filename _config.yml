@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gin Zheng's Portfolio"
+title                    : "Xiaojin's Portfolio"
 title_separator          : "-"
-name                     : &name "Gin Xiaojin Zheng"
+name                     : &name "Xiaojin Zheng"
 description              : &description "Student at National Taiwan University"
 url                      : https://xjinzheng.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gin Xiaojin Zheng"
+  name             : "Xiaojin Zheng"
   avatar           : "profile.png"
   bio              : "Senior Year Undergrad <br/> National Taiwan University"
   location         : "Shandong/Jiangsu/Fujian 🇨🇳<br/> &nbsp;→ Taipei 🇹🇼"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ginxiaojinzheng"
+  linkedin         : "xiaojinzheng"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
