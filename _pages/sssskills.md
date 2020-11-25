@@ -45,7 +45,3 @@ author_profile: true
   * Plots: _ggplot2_ in R
 
 
-
-### Certificates and Awards
-
-
